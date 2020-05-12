@@ -1,0 +1,14 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Learning JS",
+  "main": "index.js",
+  "scripts": {
+    "js": "node js/index.js"
+  },
+  "keywords": [
+    "420"
+  ],
+  "author": "Josué Hernández",
+  "license": "ISC"
+}
