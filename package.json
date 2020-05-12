@@ -4,11 +4,15 @@
   "description": "Learning JS",
   "main": "index.js",
   "scripts": {
-    "js": "node js/index.js"
+    "js": "node js/index.js",
+    "start": "live-server"
   },
   "keywords": [
     "420"
   ],
   "author": "Josué Hernández",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
 }
